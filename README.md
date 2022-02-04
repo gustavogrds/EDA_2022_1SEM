@@ -11,7 +11,7 @@ gustavorocha.silva@mackenzie.br | orlando.albarracin@mackenzie.br
 
 ## Links dos Encontros Síncronos, Conteúdos e Fórum
 
-[Turma 06P12]() Quinta-feira 7:30h às 9:10h (BBB) 
+[Turma 06P12]() Quinta-feira 7:30h às 09:10h (BBB) 
 
 [Turma 06Q11]() Quinta-feira 9:20h às 11:00h (BBB)
 
