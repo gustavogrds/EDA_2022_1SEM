@@ -26,7 +26,7 @@ gustavorocha.silva@mackenzie.br | orlando.albarracin@mackenzie.br
 
 ## Programação Semanal
 
-09/08 [Introdução à Análise Exploratória de Dados](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T1_Introducao_a_Analise_de_Dados.ipynb) | [video]()  
+09/08 [Introdução à Análise Exploratória de Dados](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T1_Introducao_a_Analise_de_Dados.ipynb) | [video]  
 
 16/08 [Python Básico](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T2_Python_Basico.ipynb) | 
 [video]()   
